@@ -1,4 +1,4 @@
-import cv2, math, time
+import cv2, math
 
 # computes diagonal distance
 def pythagorean(x, y):
